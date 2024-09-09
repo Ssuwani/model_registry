@@ -15,3 +15,9 @@ docker-compose up
 
 - https://mlflow.org/
 - https://min.io/docs/minio/container/index.html
+
+## Demo
+
+https://github.com/user-attachments/assets/5792e198-3fd7-458c-b02d-68b02c3912ae
+
+
